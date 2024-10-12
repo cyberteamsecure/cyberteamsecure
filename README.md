@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Dawkins @cyberteamsecure
-- 👀 I’m interested in Cyber Security, IT Security and AI Security solutions
+- 👀 I’m experienced in Cyber Security, IT Security and AI Security solutions
 - 🌱 I’m currently learning to train AI models
-- 💞️ I’m looking to collaborate on AI security
+- 💞️ I’m looking to collaborate on AI security solutions
 - 📫 How to reach me - The best way is to follow me on X
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I started my career as a programmer back in 1975
